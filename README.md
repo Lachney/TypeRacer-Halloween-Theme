@@ -14,3 +14,4 @@ Use a styling extension like Stylus then click the button below to install.
 * [Stylus for Opera](https://addons.opera.com/en/extensions/details/stylus/)
 
 * 📦 [Install as userstyle](https://raw.githubusercontent.com/Lachney/TypeRacer-Halloween-Theme/main/theme.css)
+* 📦 [userstyles.org](https://userstyles.org/styles/190932/typeracer-halloween-2020)
